@@ -1,14 +1,14 @@
 # Exchange-Rate-Conversion
 
-- 1. First, you need to create a free account on abstractapi.com.
+1.First, you need to create a free account on abstractapi.com.
 
 <img width="369" alt="image" src="https://user-images.githubusercontent.com/33503189/172073654-cf5d4f55-b614-4676-874d-6624d88fd7bf.png">
 
-- 2. Click Exchange rates on the left menu, and get your free API key in the right side.
+2.Click Exchange rates on the left menu, and get your free API key in the right side.
 
 <img width="369" alt="image" src="https://user-images.githubusercontent.com/33503189/172073659-8f2df6c5-b307-4b9c-8492-5a30fb0f8912.png">
 
-- 3. PL/SQL code in Oracle APEX. You can call with DA or written as functions, api_key better best saved in the database table, so easy to manage.
+3.PL/SQL code in Oracle APEX. You can call with DA or written as functions, api_key better best saved in the database table, so easy to manage.
 
 ```
 declare
