@@ -9,7 +9,7 @@
 
 <img width="720" alt="image" src="https://user-images.githubusercontent.com/33503189/172073659-8f2df6c5-b307-4b9c-8492-5a30fb0f8912.png">
 
-3.PL/SQL code in Oracle APEX. You can call with DA or written as functions, api_key better best saved in the database table, so easy to manage.
+3.PL/SQL code in Oracle APEX. You can call with DA or written as functions, api_key better saved in the database table, so easy to manage.
 
 ```
 declare
